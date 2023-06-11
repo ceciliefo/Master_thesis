@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Session Name="/Users/cecilie/Documents/Finished_Code_Masterproject/FHE/HEforFloat512/float512_identification.workspace">
+  <int Value="4" Name="m_selectedTab"/>
+  <wxString Value="/Users/cecilie/Documents/Finished_Code_Masterproject/FHE/HEforFloat512/float512_identification.workspace" Name="m_workspaceName"/>
+  <TabInfoArray Name="TabInfoArray">
+    <TabInfo>
+      <wxString Value="/Users/cecilie/Documents/Finished_Code_Masterproject/FHE/HEforFloat512/biometric.h" Name="FileName"/>
+      <int Value="0" Name="FirstVisibleLine"/>
+      <int Value="7" Name="CurrentLine"/>
+      <wxArrayString Name="Bookmarks"/>
+      <IntVector Name="CollapsedFolds"/>
+    </TabInfo>
+    <TabInfo>
+      <wxString Value="/Users/cecilie/Documents/Finished_Code_Masterproject/FHE/HEforFloat512/comparison.h" Name="FileName"/>
+      <int Value="0" Name="FirstVisibleLine"/>
+      <int Value="2" Name="CurrentLine"/>
+      <wxArrayString Name="Bookmarks"/>
+      <IntVector Name="CollapsedFolds"/>
+    </TabInfo>
+    <TabInfo>
+      <wxString Value="/Users/cecilie/Documents/Finished_Code_Masterproject/FHE/HEforFloat512/biometric.cpp" Name="FileName"/>
+      <int Value="0" Name="FirstVisibleLine"/>
+      <int Value="0" Name="CurrentLine"/>
+      <wxArrayString Name="Bookmarks"/>
+      <IntVector Name="CollapsedFolds"/>
+    </TabInfo>
+    <TabInfo>
+      <wxString Value="/Users/cecilie/Documents/Finished_Code_Masterproject/FHE/HEforFloat512/comparison.cpp" Name="FileName"/>
+      <int Value="0" Name="FirstVisibleLine"/>
+      <int Value="0" Name="CurrentLine"/>
+      <wxArrayString Name="Bookmarks"/>
+      <IntVector Name="CollapsedFolds"/>
+    </TabInfo>
+    <TabInfo>
+      <wxString Value="/Users/cecilie/Documents/Finished_Code_Masterproject/FHE/HEforFloat512/main.cpp" Name="FileName"/>
+      <int Value="37" Name="FirstVisibleLine"/>
+      <int Value="55" Name="CurrentLine"/>
+      <wxArrayString Name="Bookmarks"/>
+      <IntVector Name="CollapsedFolds"/>
+    </TabInfo>
+    <TabInfo>
+      <wxString Value="/Users/cecilie/Desktop/FHE/HEforFloat512/Test.cpp" Name="FileName"/>
+      <int Value="53" Name="FirstVisibleLine"/>
+      <int Value="24" Name="CurrentLine"/>
+      <wxArrayString Name="Bookmarks"/>
+      <IntVector Name="CollapsedFolds"/>
+    </TabInfo>
+  </TabInfoArray>
+  <SerializedObject Name="m_breakpoints">
+    <long Value="0" Name="Count"/>
+  </SerializedObject>
+  <wxString Value="*.c;*.cpp;*.cxx;*.cc;*.h;*.hpp;*.inc;*.mm;*.m;*.xrc;*.plist;*.txt" Name="m_findInFilesMask"/>
+</Session>

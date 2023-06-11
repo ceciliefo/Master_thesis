@@ -1,0 +1,61 @@
+[{
+  "file": "/Users/cecilie/Documents/Finished_Code_Masterproject/NTRU-PEKS/Sampling.cc",
+  "directory": "/Users/cecilie/Documents/Finished_Code_Masterproject/NTRU-PEKS",
+  "command": "clang++ -c /Users/cecilie/Documents/Finished_Code_Masterproject/NTRU-PEKS/Sampling.cc -o /Users/cecilie/Documents/Finished_Code_Masterproject/NTRU-PEKS/Sampling.cc.o  -I. -I.  -Wall  -O2  -std=c++11  -Wall"
+ }, {
+  "file": "/Users/cecilie/Documents/Finished_Code_Masterproject/NTRU-PEKS/params.h",
+  "directory": "/Users/cecilie/Documents/Finished_Code_Masterproject/NTRU-PEKS",
+  "command": "clang++ -c /Users/cecilie/Documents/Finished_Code_Masterproject/NTRU-PEKS/params.h -o /Users/cecilie/Documents/Finished_Code_Masterproject/NTRU-PEKS/params.h.o  -I. -I.  -Wall  -O2  -std=c++11  -Wall"
+ }, {
+  "file": "/Users/cecilie/Documents/Finished_Code_Masterproject/NTRU-PEKS/io.cc",
+  "directory": "/Users/cecilie/Documents/Finished_Code_Masterproject/NTRU-PEKS",
+  "command": "clang++ -c /Users/cecilie/Documents/Finished_Code_Masterproject/NTRU-PEKS/io.cc -o /Users/cecilie/Documents/Finished_Code_Masterproject/NTRU-PEKS/io.cc.o  -I. -I.  -Wall  -O2  -std=c++11  -Wall"
+ }, {
+  "file": "/Users/cecilie/Documents/Finished_Code_Masterproject/NTRU-PEKS/FFT.cc",
+  "directory": "/Users/cecilie/Documents/Finished_Code_Masterproject/NTRU-PEKS",
+  "command": "clang++ -c /Users/cecilie/Documents/Finished_Code_Masterproject/NTRU-PEKS/FFT.cc -o /Users/cecilie/Documents/Finished_Code_Masterproject/NTRU-PEKS/FFT.cc.o  -I. -I.  -Wall  -O2  -std=c++11  -Wall"
+ }, {
+  "file": "/Users/cecilie/Documents/Finished_Code_Masterproject/NTRU-PEKS/Biometrics.cc",
+  "directory": "/Users/cecilie/Documents/Finished_Code_Masterproject/NTRU-PEKS",
+  "command": "clang++ -c /Users/cecilie/Documents/Finished_Code_Masterproject/NTRU-PEKS/Biometrics.cc -o /Users/cecilie/Documents/Finished_Code_Masterproject/NTRU-PEKS/Biometrics.cc.o  -I. -I.  -Wall  -O2  -std=c++11  -Wall"
+ }, {
+  "file": "/Users/cecilie/Documents/Finished_Code_Masterproject/NTRU-PEKS/Algebra.h",
+  "directory": "/Users/cecilie/Documents/Finished_Code_Masterproject/NTRU-PEKS",
+  "command": "clang++ -c /Users/cecilie/Documents/Finished_Code_Masterproject/NTRU-PEKS/Algebra.h -o /Users/cecilie/Documents/Finished_Code_Masterproject/NTRU-PEKS/Algebra.h.o  -I. -I.  -Wall  -O2  -std=c++11  -Wall"
+ }, {
+  "file": "/Users/cecilie/Documents/Finished_Code_Masterproject/NTRU-PEKS/Sampling.h",
+  "directory": "/Users/cecilie/Documents/Finished_Code_Masterproject/NTRU-PEKS",
+  "command": "clang++ -c /Users/cecilie/Documents/Finished_Code_Masterproject/NTRU-PEKS/Sampling.h -o /Users/cecilie/Documents/Finished_Code_Masterproject/NTRU-PEKS/Sampling.h.o  -I. -I.  -Wall  -O2  -std=c++11  -Wall"
+ }, {
+  "file": "/Users/cecilie/Documents/Finished_Code_Masterproject/NTRU-PEKS/FFT.h",
+  "directory": "/Users/cecilie/Documents/Finished_Code_Masterproject/NTRU-PEKS",
+  "command": "clang++ -c /Users/cecilie/Documents/Finished_Code_Masterproject/NTRU-PEKS/FFT.h -o /Users/cecilie/Documents/Finished_Code_Masterproject/NTRU-PEKS/FFT.h.o  -I. -I.  -Wall  -O2  -std=c++11  -Wall"
+ }, {
+  "file": "/Users/cecilie/Documents/Finished_Code_Masterproject/NTRU-PEKS/Scheme.h",
+  "directory": "/Users/cecilie/Documents/Finished_Code_Masterproject/NTRU-PEKS",
+  "command": "clang++ -c /Users/cecilie/Documents/Finished_Code_Masterproject/NTRU-PEKS/Scheme.h -o /Users/cecilie/Documents/Finished_Code_Masterproject/NTRU-PEKS/Scheme.h.o  -I. -I.  -Wall  -O2  -std=c++11  -Wall"
+ }, {
+  "file": "/Users/cecilie/Documents/Finished_Code_Masterproject/NTRU-PEKS/Random.cc",
+  "directory": "/Users/cecilie/Documents/Finished_Code_Masterproject/NTRU-PEKS",
+  "command": "clang++ -c /Users/cecilie/Documents/Finished_Code_Masterproject/NTRU-PEKS/Random.cc -o /Users/cecilie/Documents/Finished_Code_Masterproject/NTRU-PEKS/Random.cc.o  -I. -I.  -Wall  -O2  -std=c++11  -Wall"
+ }, {
+  "file": "/Users/cecilie/Documents/Finished_Code_Masterproject/NTRU-PEKS/Scheme.cc",
+  "directory": "/Users/cecilie/Documents/Finished_Code_Masterproject/NTRU-PEKS",
+  "command": "clang++ -c /Users/cecilie/Documents/Finished_Code_Masterproject/NTRU-PEKS/Scheme.cc -o /Users/cecilie/Documents/Finished_Code_Masterproject/NTRU-PEKS/Scheme.cc.o  -I. -I.  -Wall  -O2  -std=c++11  -Wall"
+ }, {
+  "file": "/Users/cecilie/Documents/Finished_Code_Masterproject/NTRU-PEKS/Algebra.cc",
+  "directory": "/Users/cecilie/Documents/Finished_Code_Masterproject/NTRU-PEKS",
+  "command": "clang++ -c /Users/cecilie/Documents/Finished_Code_Masterproject/NTRU-PEKS/Algebra.cc -o /Users/cecilie/Documents/Finished_Code_Masterproject/NTRU-PEKS/Algebra.cc.o  -I. -I.  -Wall  -O2  -std=c++11  -Wall"
+ }, {
+  "file": "/Users/cecilie/Documents/Finished_Code_Masterproject/NTRU-PEKS/PEKS.cc",
+  "directory": "/Users/cecilie/Documents/Finished_Code_Masterproject/NTRU-PEKS",
+  "command": "clang++ -c /Users/cecilie/Documents/Finished_Code_Masterproject/NTRU-PEKS/PEKS.cc -o /Users/cecilie/Documents/Finished_Code_Masterproject/NTRU-PEKS/PEKS.cc.o  -I. -I.  -Wall  -O2  -std=c++11  -Wall"
+ }, {
+  "file": "/Users/cecilie/Documents/Finished_Code_Masterproject/NTRU-PEKS/Random.h",
+  "directory": "/Users/cecilie/Documents/Finished_Code_Masterproject/NTRU-PEKS",
+  "command": "clang++ -c /Users/cecilie/Documents/Finished_Code_Masterproject/NTRU-PEKS/Random.h -o /Users/cecilie/Documents/Finished_Code_Masterproject/NTRU-PEKS/Random.h.o  -I. -I.  -Wall  -O2  -std=c++11  -Wall"
+ }, {
+  "file": "/Users/cecilie/Documents/Finished_Code_Masterproject/NTRU-PEKS/io.h",
+  "directory": "/Users/cecilie/Documents/Finished_Code_Masterproject/NTRU-PEKS",
+  "command": "clang++ -c /Users/cecilie/Documents/Finished_Code_Masterproject/NTRU-PEKS/io.h -o /Users/cecilie/Documents/Finished_Code_Masterproject/NTRU-PEKS/io.h.o  -I. -I.  -Wall  -O2  -std=c++11  -Wall"
+ }]
